@@ -16,6 +16,4 @@ Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software enginee
 ![](https://github-profile-trophy.vercel.app/?username=Karim-Chami&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Karim-Chami&icon=1&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=Karim-Chami&icon=1&color=10)](https://visitcount.itsvg.in)
