@@ -15,5 +15,7 @@ Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software enginee
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Karim-Chami&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Karim-Chami?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/Karim-Chami/)
+
 ---
 [![](https://komarev.com/ghpvc/?username=Karim-Chami&icon=1&color=10)](https://visitcount.itsvg.in)
