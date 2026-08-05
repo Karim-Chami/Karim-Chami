@@ -1,11 +1,11 @@
-# ./Greetings:
+# ./greeting:
 Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software engineer passionate about systems programming, algorithms, reverse engineering, and building efficient software. I'm always learning, building projects, and exploring how software works under the hood.
 
 
-## 🌐 Socials:
+## 🌐 ./links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-chami-716277271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimchamich@gmail.com) 
 
-# ./stats Leetcode
+# ./stats LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/karimchamich?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/karimchamich/)
 # 📊 ./stats Github:
 ![](https://github-readme-stats.shion.dev/api?username=Karim-Chami&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
