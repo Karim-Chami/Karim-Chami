@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software engineer passionate about systems programming, algorithms, reverse engineering, and building efficient software.<br><br>Tech: C • Python • Java • Linux • Git<br><br>I'm always learning, building projects, and exploring how software works under the hood.
+Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software engineer passionate about systems programming, algorithms, reverse engineering, and building efficient software. I'm always learning, building projects, and exploring how software works under the hood.
 
 
 ## 🌐 Socials:
@@ -20,4 +20,4 @@ Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software enginee
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Karim-Chami&icon=1&color=10)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Karim-Chami&icon=1)](https://visitcount.itsvg.in)
