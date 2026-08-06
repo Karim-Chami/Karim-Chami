@@ -14,10 +14,5 @@ Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software enginee
 ![](https://streak-stats.demolab.com/?user=Karim-Chami&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Karim-Chami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 ./trophies:
-![](https://github-profile-trophy.vercel.app/?username=Karim-Chami&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 ---
 [![](https://komarev.com/ghpvc/?username=Karim-Chami&icon=1)](https://visitcount.itsvg.in)
