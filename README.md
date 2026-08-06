@@ -13,6 +13,3 @@ Hi, I'm Karim 👋<br><br>Computer Science student and aspiring software enginee
 ![](https://github-readme-stats.shion.dev/api?username=Karim-Chami&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Karim-Chami&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Karim-Chami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Karim-Chami&icon=1)](https://visitcount.itsvg.in)
